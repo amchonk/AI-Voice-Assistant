@@ -30,3 +30,16 @@ Example Commands
     "nova open youtube" - Opens YouTube in the default web browser.
     "nova take a screenshot" - Takes a screenshot and saves it to the local directory.
     Additional commands can be added by modifying the listening() function.
+
+Future Plans
+
+    Add Spotify API for voice-controlled music playback.
+
+
+
+    
+
+
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
