@@ -15,6 +15,7 @@ Configuration
 Before running the assistant, you need to configure a few settings:
 
     Obtain an API key from OpenAI and set it in the code where the OpenAI client is initialized.
+    Install required packages (see imports at the top of the assistant.py file)
     Ensure your audio device is properly set up and recognized by the speech_recognition library.
     Install Cuda toolkit to get the fastest transcription time possible.
 
